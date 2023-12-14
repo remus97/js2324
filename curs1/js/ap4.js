@@ -1,0 +1,1 @@
+alert('mesaj afisat din fisier exter')

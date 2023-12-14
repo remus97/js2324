@@ -1,0 +1,2 @@
+alert('JavaSript este activ');
+
